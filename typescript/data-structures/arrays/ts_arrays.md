@@ -10,13 +10,14 @@ OR
 let lottoNumbers: Array<number> = [12, 3, 8, 1, 21, 7, 32];
 ```
 
-## Characteristics
-* Fixed size
-* Hold items of the same type (C#)
+## Commonly used Properties
+|Description|Code|
+|---------|-----|
+|Access|`const iLottoNumber:number = lottoNumbers[i]`|
+|Length|`const length: number = lottoNumbers.length`|
+|Append|`lottoNumbers.push(42)`|
+|Remove/Replace|`lottoNumbers.splice(startIndex, deleteCount, items...)`|
 
-## Complexity
-|Operation|Big-O|Remarks|
-|---------|-----|-------|
-|Access|O(1)|Access by index|
-|Insert|O(N)|If capacity reached, copy contents to new, larger array|
-|Delete|O(N)|Create new array without deleted item|
+## Characteristics
+* Neither the length of a JavaScript array nor the types of its elements are fixed.
+    * However, in Typescript, we restrict the array to only contain items of the same type
