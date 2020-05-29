@@ -3,7 +3,7 @@ A succinct collection of computer science goodness
 
 ## Data Structures
 * Arrays - [C#](./c%23/data-structures/arrays/cs_arrays.md) | [Typescript](./typescript/data-structures/arrays/ts_arrays.md)
-* Stacks - [C#](./c%23/data-structures/stacks/cs_stacks.md) | [Typescript]()
+* Stacks - [C#](./c%23/data-structures/stacks/cs_stacks.md) | [Typescript](./typescript/data-structures/stacks/ts_stacks.md)
 
 ## Sorting
 
