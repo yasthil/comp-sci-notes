@@ -1,17 +1,6 @@
-# cs-notes
+# comp-sci-notes
 A succinct collection of computer science goodness
 
+## [C# Notes](/c%23/README.md)
 
-## Data Structures
-[Arrays](/data-structures/arrays.md)
-
-## Design Patterns
-
-
-## Big O
-
-
-## Sorting
-
-
-## Algorithms
+## [Typescript Notes](/typescript/README.md)
