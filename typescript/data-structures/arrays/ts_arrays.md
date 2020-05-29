@@ -2,11 +2,11 @@
 Arrays allow us to store multiple items which we can then access via an index. 
 
 ## Usage
-```
+```typescript
 let lottoNumbers: number [] = [12, 3, 8, 1, 21, 7, 32];
 ```
 OR
-```
+```typescript
 let lottoNumbers: Array<number> = [12, 3, 8, 1, 21, 7, 32];
 ```
 

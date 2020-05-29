@@ -3,11 +3,11 @@ Arrays allow us to store multiple items which we can then access via an index.
 
 ## Usage
 # C#
-```
+```c#
 int [] lottoNumbers = new int[7] {12, 3, 8, 1, 21, 7, 32};
 ```
 
-## Commonly used Properties (.Net)
+## Cheat Sheet
 |Description|Code|
 |---------|-----|
 |Access|`int iItem = lottoNumbers[i]`|
