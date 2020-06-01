@@ -2,8 +2,8 @@
 A succinct collection of computer science goodness
 
 ## Data Structures
-* Arrays - [C#](./c%23/data-structures/arrays/cs_arrays.md) | [Typescript](./typescript/data-structures/arrays/ts_arrays.md)
-* Stacks - [C#](./c%23/data-structures/stacks/cs_stacks.md) | [Typescript](./typescript/data-structures/stacks/ts_stacks.md)
+* Arrays - [C#](./c%23/data-structures/cs_arrays.md) | [Typescript](./typescript/data-structures/ts_arrays.md)
+* Stacks - [C#](./c%23/data-structures/cs_stacks.md) | [Typescript](./typescript/data-structures/ts_stacks.md)
 * Queues - [C#](./c%23/data-structures/stacks/CSharpDatastructure.md) | [Typescript](./typescript/data-structures/stacks/TypeScriptDatastructure.md)
 * Bindary Search Trees - [C#](./c%23/data-structures/stacks/CSharpDatastructure.md) | [Typescript](./typescript/data-structures/stacks/TypeScriptDatastructure.md)
 * Linked List - [C#](./c%23/data-structures/stacks/CSharpDatastructure.md) | [Typescript](./typescript/data-structures/stacks/TypeScriptDatastructure.md)
