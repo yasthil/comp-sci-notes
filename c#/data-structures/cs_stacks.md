@@ -1,5 +1,8 @@
 # Stacks
 Variable sized Last-In-First-Out (LIFO) collection of items of the same type.
+Queues anad Stacks are useful when you need temporary storage for infromation - when you might want to discard an element after retrieving its value.
+
+Use a `Stack` if you need to access the information in reverse order from which they were stored in the collection
 
 ## Usage
 # C#
