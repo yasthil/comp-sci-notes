@@ -17,13 +17,10 @@ Console.WriteLine(studentsWaiting.Dequeue());   // Hermione
 ## Cheat Sheet
 |Description|Code|Remarks|
 |---------|-----|--------|
-|Enqueue|``||
-|Dequeue|``||
-|Peek|``||
+|Enqueue|`studentsWaiting.Enqueue(item)`|Adds an element to the end of the Queue|
+|Dequeue|`studentsWaiting.Dequeue()`|Removes the oldest element from the start of the Queue|
+|Peek|`studentsWaiting.Peek()`|Returns the oldest element that is at the start of the Queue, but does not remove it|
 
 ## Characteristics
-
-## Complexity
-|Operation|Big-O|Remarks|
-|---------|-----|-------|
-
+- Implemented as a circular array (C#)
+- Objects stored in a `Queue<T>` are inserted at one end and removed at the other
