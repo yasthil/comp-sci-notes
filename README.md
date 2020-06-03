@@ -5,7 +5,7 @@ A succinct collection of computer science goodness
 * Arrays - [C#](./c%23/data-structures/cs_arrays.md) | [Typescript](./typescript/data-structures/ts_arrays.md)
 * Stacks - [C#](./c%23/data-structures/cs_stacks.md) | [Typescript](./typescript/data-structures/ts_stacks.md)
 * Queues - [C#](./c%23/data-structures/cs_queues.md) | [Typescript](./typescript/data-structures/ts_queues.md)
-* Bindary Search Trees - [C#](./c%23/data-structures/stacks/CSharpDatastructure.md) | [Typescript](./typescript/data-structures/stacks/TypeScriptDatastructure.md)
+* Binary Search Trees - [C#](./c%23/data-structures/stacks/CSharpDatastructure.md) | [Typescript](./typescript/data-structures/stacks/TypeScriptDatastructure.md)
 * Linked List - [C#](./c%23/data-structures/stacks/CSharpDatastructure.md) | [Typescript](./typescript/data-structures/stacks/TypeScriptDatastructure.md)
 * HashMap - [C#](./c%23/data-structures/stacks/CSharpDatastructure.md) | [Typescript](./typescript/data-structures/stacks/TypeScriptDatastructure.md)
 * HashSet - [C#](./c%23/data-structures/stacks/CSharpDatastructure.md) | [Typescript](./typescript/data-structures/stacks/TypeScriptDatastructure.md)
