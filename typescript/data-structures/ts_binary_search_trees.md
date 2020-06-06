@@ -7,6 +7,19 @@ A Binary Search Tree (BST) is a tree in which all nodes have the following prope
 left-sub-tree(keys) <= root-node(key) < right-sub-tree(keys)
 ```
 
+## Characteristics
+* A BST is an ordered data structure
+* Nodes are inserted in an orderly fashion
+* Searching is fast
+    * We are able to cut the amount of data to sort through in half on each pass (Binary Search on an ordered array)
+* Inserting, deleting and searching are fast for a BST
+* Types of Search
+    * Depth First
+        * preOrder
+        * inOrder
+        * postOrder
+    * Breadth First
+
 ## Sample Code
 # Typescript
 ```typescript
@@ -29,18 +42,6 @@ export class Node {
 |---------|-----|--------|
 
 
-## Characteristics
-* A BST is an ordered data structure
-* Nodes are inserted in an orderly fashion
-* Searching is fast
-    * We are able to cut the amount of data to sort through in half on each pass (Binary Search on an ordered array)
-* Inserting, deleting and searching are fast for a BST
-* Types of Search
-    * Depth First
-        * preOrder
-        * inOrder
-        * postOrder
-    * Breadth First
 ## Complexity
 |Operation|Big-O|Remarks|
 |---------|-----|-------|
