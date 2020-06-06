@@ -45,3 +45,6 @@ export class Node {
 ## Complexity
 |Operation|Big-O|Remarks|
 |---------|-----|-------|
+|Insertion|O(log N)| |
+|Deletion|O(log N)| |
+|Search|O(log N)| |
