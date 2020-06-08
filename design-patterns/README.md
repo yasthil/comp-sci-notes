@@ -1,9 +1,8 @@
 # Creational Patterns
 * [Singleton](./creational/singleton.md)
 * [Factory Method](./creational/factory_method.md)
-* [Abstract Factory](./creation/abstract_factory.md)
-* Builder
-* Prototype
+* [Abstract Factory](./creational/abstract_factory.md)
+* [Builder](./creational/builder.md)
 
 # Structural Patterns
 * Adapter

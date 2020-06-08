@@ -5,8 +5,7 @@ Make a system independent of the way in which objects are created, composed and 
 * [Singleton](./singleton.md)
 * [Factory Method](./factory_method.md)
 * [Abstract Factory](./abstract_factory.md)
-* Builder
-* Prototype
+* [Builder](./builder.md)
 
 # Benefits
 * Allows you to program to an interface defined by an `abstract` class
