@@ -1,16 +1,9 @@
-# Behavioural Patterns
-* Mediator 
-* Observer
-* Chain of Responsibility
-* Command
-* Template Method
-
 # Creational Patterns
+* [Singleton](./creational/singleton.md)
 * Abstract Factory
 * Builder
 * Factory Method
 * Prototype
-* Singleton
 
 # Structural Patterns
 * Adapter
@@ -19,3 +12,10 @@
 * Decorator
 * Facade
 * Proxy
+
+# Behavioural Patterns
+* Mediator 
+* Observer
+* Chain of Responsibility
+* Command
+* Template Method
