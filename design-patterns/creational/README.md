@@ -3,9 +3,9 @@ These are design patterns that deal with object creation mechanisms, trying to c
 Make a system independent of the way in which objects are created, composed and represented.
 
 * [Singleton](./singleton.md)
-* Abstract Factory
+* [Factory Method](./factory_method.md)
+* [Abstract Factory](./abstract_factory.md)
 * Builder
-* Factory Method
 * Prototype
 
 # Benefits
