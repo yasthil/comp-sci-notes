@@ -5,7 +5,7 @@
 * [Builder](./creational/builder.md)
 
 # Structural Patterns
-* Adapter
+* [Adapter](./structural/adapter.md)
 * Bridge
 * Composite
 * Decorator
