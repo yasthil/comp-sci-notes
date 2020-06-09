@@ -23,7 +23,7 @@ class Harry {
 }
 
 // Target
-class IParchmentMap {
+interface IParchmentMap {
     public reveal(): void;
 }
 
