@@ -13,3 +13,31 @@ Use an Adapter when:
 Use an Object Adapter when:
 * You need to use several existing subclasses, however it's impractical to adapt thier interface by inheriting each one.
 * An object adapter can adapt the interface of its parent class 
+
+# Sample Code
+```typescript
+
+// Client
+class Harry {
+    private _map: IParchmentMap
+}
+
+// Target
+class IParchmentMap {
+    public reveal(): void;
+}
+
+// Adapter
+class MaraudersMapAdapter extends IParchmentMap {
+    private _maraudersMap:MaraudersMap;
+    public reveal(): void {
+        _maraudersMap.revealUsingSpell("ISolemnlySwearThatIAmUpToNoGood");
+    }
+}
+
+// Adaptee
+class MaraudersMap {    
+    public revealUsingSpell(incantation: string): void;
+}
+
+```
