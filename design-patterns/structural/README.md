@@ -8,8 +8,8 @@ Describe how inheritance can be used to provide more useful program interfaces
 Describe how objects can be composed into larger structures along object composition, or the inclusion of objects within other objects.
 
 * [Adapter](./adapter.md)
+* [Decorator](./decorator.md)
 * Bridge
 * Composite
-* Decorator
 * Facade
 * Proxy
