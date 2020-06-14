@@ -7,7 +7,7 @@
 # Structural Patterns
 * [Adapter](./structural/adapter.md)
 * [Decorator](./structural/decorator.md)
-* Bridge
+* [Bridge](./structural/bridge.md)
 * Composite
 * Facade
 * Proxy
