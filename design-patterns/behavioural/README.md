@@ -8,7 +8,7 @@ Use inheritence to distribute behaviour
 User composition to distribute behaviour
 
 * [Mediator](./mediator.md)
-* Observer
+* [Observer](./observer.md)
 * Chain of Responsibility
 * Command
 * Template Method
