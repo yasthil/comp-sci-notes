@@ -10,6 +10,3 @@ Describe how objects can be composed into larger structures along object composi
 * [Adapter](./adapter.md)
 * [Decorator](./decorator.md)
 * [Bridge](./bridge.md)
-* Composite
-* Facade
-* Proxy
