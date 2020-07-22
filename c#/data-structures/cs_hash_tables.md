@@ -50,7 +50,6 @@ catch
 
 // When you use foreach to enumerate hash table elements,
 // the elements are retrieved as KeyValuePair objects.
-Console.WriteLine();
 foreach(DictionaryEntry studentHousePair in students)
 {
     Console.WriteLine("Key = {0}, Value = {1}", studentHousePair.Key, studentHousePair.Value);
