@@ -8,6 +8,8 @@ A succinct collection of computer science goodness
 * Binary Search Trees - [C#](./c%23/data-structures/cs-binary-search-trees.md) | [Typescript](./typescript/data-structures/ts_binary_search_trees.md)
 * Linked List - [C#](./c%23/data-structures/cs_linked_lists.md) | [Typescript](./typescript/data-structures/stacks/TypeScriptDatastructure.md)
 * HashSet - [C#](./c%23/data-structures/cs_hash_set.md) | [Typescript](./typescript/data-structures/stacks/TypeScriptDatastructure.md)
+* Hash Tables - [C#](./c%23/data-structures/cs_hash_tables.md)
+* Dictionary - [C#](./c%23/data-structures/cs_dictionary.md)
 
 ## Design Patterns
 * [Creational](/design-patterns/creational/README.md)
